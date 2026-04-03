@@ -9,7 +9,7 @@ cask "token-jandi" do
 
   depends_on macos: ">= :sonoma"
 
-  app "Token Jandi.app"
+  app "token-jandi.app", target: "Token Jandi.app"
 
   zap trash: [
     "~/Library/Preferences/com.heeyeonlee.token-jandi.plist",
