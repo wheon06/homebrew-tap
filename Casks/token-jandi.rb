@@ -1,6 +1,6 @@
 cask "token-jandi" do
   version "0.4.0"
-  sha256 "0afeff9c31062c2bfa28390c2caede6e61f56067113f1d18ba17d60d65d33290"
+  sha256 "0fad3e0350903a1f1f41c1c852c4917a550535eb89a0133bff6ac645e8d0d8fa"
 
   url "https://github.com/wheon06/token-jandi/releases/download/v#{version}/Token.Jandi-#{version}.zip"
   name "Token Jandi"
